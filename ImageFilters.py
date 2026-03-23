@@ -1,4 +1,4 @@
-# Lab 10 – Image Processing
+# Lab 9 – Image Processing
 # Name:
 # Date:
 # Assignment:
